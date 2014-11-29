@@ -1,0 +1,82 @@
+/** {
+     border:1px dashed black;
+}*/
+body {
+    background-color:#F5ECCE;
+}
+
+#paper {
+    width:250px;
+    background-color:red;
+    font-family:Impact;
+    font-size:48px;
+    color:#F5ECCE;
+    text-align:center;
+    margin:10px 0px 0px 24px;
+    float:left;
+}
+
+#presentation {
+    width: 250px;
+    font-family:Times;
+    font-weight:bold;
+    font-size:16.5px;
+    margin:10px 0px 0px 10px;
+    display: inline-block;
+}
+
+#header1 {
+    font-family:Impact;
+    font-size:48px;
+    clear:both;
+    margin:0px;
+    padding:0px;
+}
+
+#header2 {
+    font-family:Impact;
+    font-size:21px;
+    margin:0px;
+    padding:0px;
+}
+
+#paragraph1 {
+    width: 165px;
+    font-family:Verdana;
+    font-size:8.5;
+    margin:0px 0px 0px 24px;
+    float:left;
+}
+
+#headline  {
+    font-family:Impact;
+    font-size:16px;
+    color:red;
+}
+
+.quotation {
+    font-family:Arial Black;
+    font-size:20px;
+} 
+
+#paragraph2 {
+    width: 170px;
+    font-family:Verdana;
+    font-size:8.5;
+    margin:0 0px 0px 10px;
+    display:inline-block;
+}
+
+#paragraph3 {
+    width: 165px;
+    font-family:Verdana;
+    font-size:8.5;
+    margin:-10px 0px 0px 10px;
+    display:inline-block;
+}
+
+#image {
+    width:95%;
+    padding:1px;
+    border:1px solid #999966;
+}
